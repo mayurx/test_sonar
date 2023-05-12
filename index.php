@@ -1,5 +1,5 @@
 <?php
 echo "string";
 echo $a;
-echo $b;;kkkk
+echo $b;;kkkkdasd
  ?>
